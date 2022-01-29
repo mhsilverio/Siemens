@@ -1,0 +1,8 @@
+#!/bin/bash 
+DATA=`data +%y%m%d-%H%M`
+cp $1 $DATA-$2  
+
+Correct answer:
+
+b) o script copia um arquivo e, durante a operação,
+acrescenta a data e a hora local ao nome do novo arquivo.
