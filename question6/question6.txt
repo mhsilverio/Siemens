@@ -1,0 +1,3 @@
+Correct answer:
+
+b) Um cliente precisa utilizar um serviço específico para se comunicar com um servidor.
