@@ -1,3 +1,9 @@
 Correct answer:
  
+
+O endereço de difusão ou tráfego de broadcast, é usado para enviar pacotes a todos os hots na rede,
+sendo que este pacote, com um broadcast, contém um endereço IP destino que só tem números 1 na porção
+de host (significa que todos os hots naquela rede local receberão e verificarão o pacote),
+nesse sentido o seu valor em hexadecimal resulta em FF:FF:FF:FF:FF:FF
+
 e) FF:FF:FF:FF:FF:FF
