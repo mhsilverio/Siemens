@@ -1,3 +1,9 @@
 Correct answer:
 
+A funcionalidade Gateway-To-Gateway também conhecida como Gateway de VPN a Gateway,
+no qual consiste em uma conexão segura entre duas redes, em que cada gateway
+utilize apenas um gateway type. Dessa maneira, a configuração para habilitar
+um gateway de VPN consiste na técnica de tunelamento, pois permite que um pacote
+seja enviado com segurança através de uma rede pública (internet). 
+
 d) tunelamento
