@@ -18,10 +18,13 @@
 <h3>QUESTION 7</h3>
     <p> Esta questão, também objetiva de múltipla escolha, sendo que nessa se retrata sobre o tema de Gateway to Gateway, no qual pergunta sobre qual é o nome da técina que permite o encapsulamento seguro dos pacotes utilizando os túneis de VPN (Virtual Private Network). </p>
 <h3>QUESTION 8</h3>
-<p> </p>
+    <p> A oitava questãop abordava o tema de Ethernet, o endereço de difusão (broadcast) pedindo dessa maneira, que selecionasse a representação que deve-se esperar do endereço destido. </p>
 <h3>QUESTION 9</h3>
-<p> </p>
+    <p> Nessa questão foi apresentado vários comandos de ferramentos de software, no qual permite que o usuário leia os dados em uma estrutura de dados. Portanto, solicitanto que apresentasse a melhor sequência de comandos necessárias para que o Problema #1, Problema #2 e o Problema #3 fosse sussecivamente solucionados e mostrados.</p>
+    <p> Problema #1: Relation ABC - determinar a estrutura. </p>
+    <p> Problema #2: Relation XYZ - ler o primeiro e o último resgistro da relação. </p>
+    <p> Problema #3: Relation XYZ - ler o valor da chave 10 e os 2 registros seguintes. </p>
 <h3>QUESTION 10</h3>
-<p> </p>
+    <p> Áúltima questão disponibilizada retrata a o script bash executado por um desenvolvedor em um ambiente Linux. Assim, sobre o código apresentado, foi solicitado informar qual das alternativas apresentadas melhor expressa a resolução do código. </p>
 
 
