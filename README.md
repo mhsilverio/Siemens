@@ -2,7 +2,7 @@
  
 <h3 align="center"> Processo seletivo para participação no projeto Fábrica de Software junto a empresa Siemens. </h3>
 
-
+<br>
 <h3>QUESTION 2</h3>
     <p> A primeira questão solicita um algoritmo em C/C++ ou em Java que imprima um contador de 1 até 100, sendo que nos valores múltiplos de 3 devem ser imprimidos, ao invés do número, a palavra "Foo", já nos múltiplos de 5 a palavra "Baa", e por fim, quando o número impresso for simultânemante múltiplo de 3 e 5, a palavra deve ser "FooBaa". Dessa maneira, o código implementado foi na linguagem C++, visando, como solicitadom o menor número de linhas de código possível. </p>
 <h3>QUESTION 3</h3>
