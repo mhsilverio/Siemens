@@ -6,7 +6,7 @@ void ConcatERemove(string s, string t, int k){
     int menor, maior;
     int movimentos;
 
-    // PRIMEIRAMENTE É NECESSÁRIO OBSERVAR O TAMANHO DAS STRINGS EXISTENTES
+    // PRIMEIRAMENTE É NECESSÁRIO OBSERVAR O TAMANHO DAS STRINGS
     if (s.size() > t.size()){
         menor = t.size();
         maior = s.size();
@@ -24,6 +24,7 @@ void ConcatERemove(string s, string t, int k){
     }
     
     movimentos = (s.size() - t.size());
+    movimentos = (movimentos < 0) ? (movimentos * -1) : movimentos;
 
     for (int i = 0; i < menor; i++){
         if (s[i] != t[i]){
