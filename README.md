@@ -26,8 +26,7 @@
     <p> Problema #3: Relation XYZ - ler o valor da chave 10 e os 2 registros seguintes. </p>
 <h3>QUESTION 10</h3>
     <p> Áúltima questão disponibilizada retrata a o script bash executado por um desenvolvedor em um ambiente Linux. Assim, sobre o código apresentado, foi solicitado informar qual das alternativas apresentadas melhor expressa a resolução do código. </p>
- 
-
+    
 <h3 align="center"> Processo seletivo realizado em jan/2022 </h3>
 
 
